@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EGvilagUpdater", "EGvilagLauncher2\EGvilagUpdater.csproj", "{66475A97-0356-423D-AACF-C76C6A407D4A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EGvilagUpdater", "EGvilagUpdater\EGvilagUpdater.csproj", "{66475A97-0356-423D-AACF-C76C6A407D4A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

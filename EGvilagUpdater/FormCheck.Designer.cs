@@ -1,5 +1,5 @@
 ﻿
-namespace EGvilagLauncher2
+namespace EGvilagUpdater
 {
     partial class FormCheck
     {

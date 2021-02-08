@@ -12,7 +12,7 @@ using System.Net.Sockets;
 using System.Security;
 using Microsoft.Win32;
 
-namespace EGvilagLauncher2
+namespace EGvilagUpdater
 {
     public partial class FormCheck : Form
     {

@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 
 
-namespace EGvilagLauncher2
+namespace EGvilagUpdater
 {
     public partial class FormMain : Form
     {

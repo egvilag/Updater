@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{66475A97-0356-423D-AACF-C76C6A407D4A}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>EGvilagLauncher2</RootNamespace>
-    <AssemblyName>EGvilagLauncher2</AssemblyName>
+    <RootNamespace>EGvilagUpdater</RootNamespace>
+    <AssemblyName>EGvilagUpdater</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

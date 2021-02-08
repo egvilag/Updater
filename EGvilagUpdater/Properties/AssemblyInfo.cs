@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("EGvilagLauncher2")]
+[assembly: AssemblyTitle("EGvilagUpdater")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Gyöngyös")]
-[assembly: AssemblyProduct("EGvilagLauncher2")]
+[assembly: AssemblyProduct("EGvilagUpdater")]
 [assembly: AssemblyCopyright("Copyright © Gyöngyös 2021")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
